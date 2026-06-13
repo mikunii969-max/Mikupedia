@@ -13,7 +13,7 @@ const SITE_CONFIG = {
   ctaText: "Belanja Sekarang",
   footerText: "© 2025 Mikupedia. Affiliate Shopee Indonesia.",
   socialLinks: {
-    tiktok: "https://tiktok.com/@mikumovie",  // ganti dengan TikTok kamu
+    tiktok: "https://www.tiktok.com/@mikunii11",  // ganti dengan TikTok kamu
     shopee: "https://shopee.co.id",
   }
 };
